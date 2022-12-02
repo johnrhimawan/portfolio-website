@@ -1,1 +1,3 @@
-# portfolio-website
+# Hi there, welcome to johnrhimawan's personal portfolio website
+
+We'll be having some updates shortly...
